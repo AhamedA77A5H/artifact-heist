@@ -1,0 +1,7 @@
+res://enemies/Guard.tscn::eddbe7f717a337cae11890b7025ea57d::1757229848::res://.godot/exported/133200997/export-cf878adc2197d372f36fdd85a4cb44ce-Guard.scn
+res://interaction/interaction area/interaction_area.tscn::a7ea7a2515cf0f996f02e0bf5ec2d7c9::1757229255::res://.godot/exported/133200997/export-4e4aa838bbe39491d2b35455a7591897-interaction_area.scn
+res://interaction/interactable.tscn::7bb9c2a388bcb8823c2b379cbaacbe17::1757253697::res://.godot/exported/133200997/export-2080119f172b55c4ce54dbdd5c27b835-interactable.scn
+res://interaction/interacting_component.tscn::8e5e7903b0857e41efcfe7334af2ecee::1757254985::res://.godot/exported/133200997/export-64e1d6e92cb11e3904ace74fc92891da-interacting_component.scn
+res://player/player.tscn::3edda58ebadbb7bf6f2ce5d851c482bb::1757253694::res://.godot/exported/133200997/export-753d15e03e0182f9d550ac833b42bb41-player.scn
+res://world/room_tile_set.tres::d99040ca54147d6648178115437ec370::1756993215::res://.godot/exported/133200997/export-06bfebc5f2f4882c7bd59711692f053a-room_tile_set.res
+res://Level_1.tscn::40a8724119738e630a23f4e0cfdbbd9d::1757229255::res://.godot/exported/133200997/export-f10cffa380c0c690fb983bc11f877302-Level_1.scn
