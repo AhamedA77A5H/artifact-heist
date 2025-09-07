@@ -11,6 +11,7 @@ const FRICTION = 500
 @onready var animation_tree: AnimationTree = $AnimationTree
 @onready var playback = animation_tree.get("parameters/StateMachine/playback") as AnimationNodeStateMachinePlayback
 @onready var ray_cast_2d: RayCast2D = $RayCast2D
+@onready var area_2d: Area2D = $Area2D
 
 func _physics_process(delta: float) -> void:
 	var state = playback.get_current_node()

@@ -1,7 +1,8 @@
-[gd_scene load_steps=30 format=3 uid="uid://dhk42ptbwsj8i"]
+[gd_scene load_steps=32 format=3 uid="uid://dhk42ptbwsj8i"]
 
 [ext_resource type="Texture2D" uid="uid://bmdu5qpe8rjhm" path="res://enemies/assets/Enemy1_16x16.png" id="1_8ubvr"]
 [ext_resource type="Script" uid="uid://u5q7hsuufj2k" path="res://enemies/guard.gd" id="1_aapir"]
+[ext_resource type="Script" uid="uid://bd2edxcfsqqt1" path="res://damage_boxes/hurtbox.gd" id="3_tsndj"]
 
 [sub_resource type="Animation" id="Animation_yw30f"]
 length = 0.001
@@ -251,6 +252,9 @@ nodes/StateMachine/node = SubResource("AnimationNodeStateMachine_2ieo8")
 nodes/StateMachine/position = Vector2(-180, 120)
 node_connections = [&"output", 0, &"StateMachine"]
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_aapir"]
+size = Vector2(10, 13)
+
 [node name="Guard" type="CharacterBody2D"]
 collision_layer = 4
 collision_mask = 7
@@ -279,3 +283,13 @@ polygon = PackedVector2Array(1, 7, 3, 5, 5, 3, 5, 1, 3, -1, 0, -2, -3, -1, -5, 1
 
 [node name="RayCast2D" type="RayCast2D" parent="."]
 target_position = Vector2(0, 8)
+
+[node name="Hurtbox" type="Area2D" parent="."]
+collision_layer = 32
+collision_mask = 32
+script = ExtResource("3_tsndj")
+metadata/_custom_type_script = "uid://bd2edxcfsqqt1"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Hurtbox"]
+position = Vector2(0, 0.5)
+shape = SubResource("RectangleShape2D_aapir")

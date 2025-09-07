@@ -1,7 +1,9 @@
+Hurtbox
+CollisionShape2D
+Hitbox
+Area2D
 RayCast2D
 Timer
-CollisionShape2D
-Area2D
 NavigationAgent2D
 CharacterBody2D
 TileMap
@@ -11,4 +13,3 @@ TextureRect
 Camera2D
 AnimationTree
 AnimationPlayer
-Sprite2D
