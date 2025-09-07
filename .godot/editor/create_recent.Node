@@ -1,0 +1,14 @@
+RayCast2D
+Timer
+CollisionShape2D
+Area2D
+NavigationAgent2D
+CharacterBody2D
+TileMap
+TileMapLayer
+CollisionPolygon2D
+TextureRect
+Camera2D
+AnimationTree
+AnimationPlayer
+Sprite2D

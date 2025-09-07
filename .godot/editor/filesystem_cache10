@@ -1,0 +1,46 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757226472
+icon.svg::CompressedTexture2D/CompressedTexture2D::3147136670851211297::1756795012::1756815004::1::::<><><>0<>0<>a6bec8bbd9048e3c0d4680c9234e4425<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Level_1.tscn::PackedScene::2249571483058826903::1757226389::0::1::::<><><>0<>0<><>::uid://dcpssxhfbp41j::::res://world/assets/Room_Builder_16x16.png<>uid://drxuabqci6yfh::::res://player/player.tscn<>uid://xfu8ag1aenen::::res://world/assets/Interiors_16x16.png
+::res://effects/::1756815162
+::res://enemies/::1757226389
+guard.gd::GDScript::1466737219077234604::1757226078::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Guard.tscn::PackedScene::7673037560588877150::1757226389::0::1::::<><><>0<>0<><>::uid://bmdu5qpe8rjhm::::res://enemies/assets/Enemy1_16x16.png<>uid://u5q7hsuufj2k::::res://enemies/guard.gd
+::res://enemies/assets/::1757025149
+Enemy1_16x16.png::CompressedTexture2D/CompressedTexture2D::3236148718056333302::1757025139::1757025149::1::::<><><>0<>0<>7432912a79cfc24a5742336d789ab470<>res://.godot/imported/Enemy1_16x16.png-0670668adcfd15340e98a5e01e3a7a50.ctex::
+Enemy1_idle_16x16.png::CompressedTexture2D/CompressedTexture2D::3756032344107970974::1756815162::1756815162::1::::<><><>0<>0<>b11828ec2188e51a80e238852124f165<>res://.godot/imported/Enemy1_idle_16x16.png-7efd9255e033e5b1d91e5907ae0a176a.ctex::
+Enemy1_idle_anim_16x16.png::CompressedTexture2D/CompressedTexture2D::7832060829472315124::1756815162::1756815162::1::::<><><>0<>0<>3deb930727ada79fb7685d4abc425257<>res://.godot/imported/Enemy1_idle_anim_16x16.png-1e0ecd396c8cd6dbabaa7a5719693386.ctex::
+Enemy1_run_16x16.png::CompressedTexture2D/CompressedTexture2D::3296967469436669267::1756815162::1756815162::1::::<><><>0<>0<>9f6c575f94b590d2479271593d9de508<>res://.godot/imported/Enemy1_run_16x16.png-e319177c85e2d527dfe37491e6cf26dd.ctex::
+::res://interaction/::1756828412
+::res://interaction/interaction area/::1757226389
+interaction_area.tscn::PackedScene::5235112821783708748::1757226389::0::1::::<><><>0<>0<><>::
+::res://logos/::1756815004
+Artifact Heist_1.svg::CompressedTexture2D/CompressedTexture2D::3416594074208717614::1756795012::1756815004::1::::<><><>0<>0<>c70265d652b52a18e917a23aff5b5c4b<>res://.godot/imported/Artifact Heist_1.svg-42655c0ab40f027e1bc2332efa854259.ctex::
+Artifact Heist_2.svg::CompressedTexture2D/CompressedTexture2D::946276605360700159::1756795024::1756815004::1::::<><><>0<>0<>443d11c3408d1fd1c3d725402acedcdb<>res://.godot/imported/Artifact Heist_2.svg-d99228cd382462808a2a2babfc2988fa.ctex::
+Artifact Heist_3.svg::CompressedTexture2D/CompressedTexture2D::2148615663296714931::1756795024::1756815004::1::::<><><>0<>0<>90c739ba5eebc20be189eaeb06811f16<>res://.godot/imported/Artifact Heist_3.svg-fe6b5c565f474a227120bd9299fa62e3.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::4845198102198562427::1756814372::1756815004::1::::<><><>0<>0<>a4b980f73fae4eef121f864928047dd7<>res://.godot/imported/icon.svg-0a0c3b68e2c085545beca490a7c7b666.ctex::
+::res://music_and_sounds/::1756815162
+::res://player/::1757226396
+player.gd::GDScript::5079885941773833983::1757226336::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+player.tscn::PackedScene::8401167498467586505::1757226396::0::1::::<><><>0<>0<><>::uid://cemy8kbvv03p0::::res://player/player.gd<>uid://5aos2xrigl1d::::res://player/assets/Player_16x16.png
+::res://player/assets/::1756818334
+Player_16x16.png::CompressedTexture2D/CompressedTexture2D::2106548945774287923::1756818314::1756818334::1::::<><><>0<>0<>c1387f9963c83cbbb92702d24c82a0c3<>res://.godot/imported/Player_16x16.png-a1dac01735dff936c51602b159702d43.ctex::
+Player_idle_16x16.png::CompressedTexture2D/CompressedTexture2D::6053192835599217507::1756815162::1756815162::1::::<><><>0<>0<>4643241be36e19570ce84563b13ea55b<>res://.godot/imported/Player_idle_16x16.png-a06204882a948b2a6210cb7f40974c7a.ctex::
+Player_idle_anim_16x16.png::CompressedTexture2D/CompressedTexture2D::405978080941201621::1756818027::1756818054::1::::<><><>0<>0<>94813af606482f68d978901599e9137a<>res://.godot/imported/Player_idle_anim_16x16.png-8e9aa27d8221441e85b2423beb7a034c.ctex::
+Player_run_16x16.png::CompressedTexture2D/CompressedTexture2D::3772765701551499006::1756818000::1756818054::1::::<><><>0<>0<>76d8713a52f61dca3c1e7a89e06e8586<>res://.godot/imported/Player_run_16x16.png-e73ce99cb9ffe7dee488f9c5225e2183.ctex::
+::res://shadows/::1756815162
+::res://shadows/assets/::1756815162
+large_shadow.png::CompressedTexture2D/CompressedTexture2D::5194536869507012453::1756815162::1756815162::1::::<><><>0<>0<>d5eab69e02a2d21e2aa395f193aeb7f5<>res://.godot/imported/large_shadow.png-454b159f70be03bf7a505d0bcb1f2e64.ctex::
+medium_shadow.png::CompressedTexture2D/CompressedTexture2D::1164969327685364068::1756815162::1756815162::1::::<><><>0<>0<>4f9938400d4b70610b486bcf056b3a87<>res://.godot/imported/medium_shadow.png-68690f07c861648306b1de29bbfd045a.ctex::
+small_shadow.png::CompressedTexture2D/CompressedTexture2D::8822364267524108924::1756815162::1756815162::1::::<><><>0<>0<>4b74660f9e89ae1ff196f480fce2f780<>res://.godot/imported/small_shadow.png-64313e0c94b644437b86719ca1d9b632.ctex::
+::res://ui/::1756838690
+::res://ui/font/::1756839853
+MedodicaRegular.otf::FontFile/FontFile::159984428980812998::1756838680::1756839853::1::::<><><>0<>0<>cfc998f9d2f430619be72a62ed3de315<>res://.godot/imported/MedodicaRegular.otf-9ccc1da3353fba19c04b90f99e99b8c4.fontdata::
+::res://world/::1756993215
+room_tile_set.tres::TileSet/TileSet::2029822443750533550::1756993215::0::1::::<><><>0<>0<><>::uid://dcpssxhfbp41j::::res://world/assets/Room_Builder_16x16.png
+::res://world/assets/::1756992620
+bush.png::CompressedTexture2D/CompressedTexture2D::6622968852307481951::1756447670::1756830197::1::::<><><>0<>0<>bdb4d756552bdb01cb6b86daa9bbf49c<>res://.godot/imported/bush.png-fa5225615a322612754b73b8295b3a74.ctex::
+grass_background.png::CompressedTexture2D/CompressedTexture2D::4620864249770541693::1756447670::1756830197::1::::<><><>0<>0<>149a6b2fc51fe50700b31f0eb2bf01f4<>res://.godot/imported/grass_background.png-2a0b1a5b8daa868953cf46fb826062fb.ctex::
+Interiors_16x16.png::CompressedTexture2D/CompressedTexture2D::1625938573949554473::1618744690::1756992296::1::::<><><>0<>0<>ca43a0c5918a7ad4a0f4378a08842862<>res://.godot/imported/Interiors_16x16.png-4280ea86a49602f3899046a5872ee7f2.ctex::
+Room_Builder_16x16.png::CompressedTexture2D/CompressedTexture2D::7331731673906170713::1618744174::1756992296::1::::<><><>0<>0<>307ae2de1b07f7303cd2817701091837<>res://.godot/imported/Room_Builder_16x16.png-93b2072a9a3efeb88d287e05865b27ee.ctex::
+tree.png::CompressedTexture2D/CompressedTexture2D::4727373144138002590::1756447670::1756830197::1::::<><><>0<>0<>02cfc9bb7d82bcdb59e8a1e5fdb8b454<>res://.godot/imported/tree.png-954696b8a4d9a2fd0f73d47777a099df.ctex::
