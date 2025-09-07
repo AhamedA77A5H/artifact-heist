@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://dsnve3xewurnd"]
 
-[ext_resource type="FontFile" uid="uid://fg4la28g8ikw" path="res://alagard.ttf" id="1_4mcoa"]
-[ext_resource type="Script" uid="uid://c07q7snmk0ehx" path="res://interaction_components/interacting_component.gd" id="1_h66gv"]
+[ext_resource type="FontFile" uid="uid://cjq6jyobae0u" path="res://ui/font/MedodicaRegular.otf" id="1_4mcoa"]
+[ext_resource type="Script" path="res://interaction/interacting_component.gd" id="1_h66gv"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_35nh8"]
 radius = 8.0

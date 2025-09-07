@@ -3,3 +3,6 @@ res://player/player.tscn
 res://interaction/interaction area/interaction_area.tscn
 res://enemies/Guard.tscn
 res://enemies/guard.gd
+res://interaction/interactable.tscn
+res://interaction/interacting_component.tscn
+res://interaction/interactable.gd
